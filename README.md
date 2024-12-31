@@ -20,9 +20,12 @@ Actualmente soy docente del programa de maestría en Ciencia de Datos en la Univ
 - **Detection of a new molecular cloud in the LHAASO J2108+5157 region supporting a hadronic PeVatron scenario**
   - Uso de datos del radiotelescopio de la Universidad Metropolitana de Osaka, para detectar y analizar el gas molecular de la región Cygnus OB7, y su correlación con la fuente de rayos gamma de ultra alta energía (UHE) LHAASO J2108+5157.
   - https://doi.org/10.48550/arXiv.2303.05712
-- ** Evidence for a gamma-ray molecular target in the enigmatic PeVatron candidate LHAASO J2108+5157**
+- **Evidence for a gamma-ray molecular target in the enigmatic PeVatron candidate LHAASO J2108+5157**
   - Uso de datos de radiotelescopio de 45m de Nobeyama para estudiar la emisión de CO alrededor de la fuente de ultra alta energía J2108+5157. Este trabajo es una continuación del anterior.
-  - https://doi.org/10.1051/0004-6361/202346681 
+  - https://doi.org/10.1051/0004-6361/202346681
+- **Nobeyama Cygnus-X Survey: Physical Properties of C18O clumps in DR-6(W), DR-9 and DR-13S regions**
+  - Uso y análisis de datos del radiotelescopio de 45m de Nobeyama, para estudiar los grumos de C18O en la región de Cygnus X.
+  - Se utiliza el método de machine learning de clustering (astrodendro) para detectar y caracterizar los grumos de interés. 
 
 ## 📧 Contacto
 - **Correo:** [toledano.ivan16@gmail.com](mailto:toledano.ivan16@gmail.com)
