@@ -25,7 +25,8 @@ Actualmente soy docente del programa de maestría en Ciencia de Datos en la Univ
   - https://doi.org/10.1051/0004-6361/202346681
 - **Nobeyama Cygnus-X Survey: Physical Properties of C18O clumps in DR-6(W), DR-9 and DR-13S regions**
   - Uso y análisis de datos del radiotelescopio de 45m de Nobeyama, para estudiar los grumos de C18O en la región de Cygnus X.
-  - Se utiliza el método de machine learning de clustering (astrodendro) para detectar y caracterizar los grumos de interés. 
+  - Se utiliza el método de machine learning de clustering (astrodendro) para detectar y caracterizar los grumos de interés.
+  - https://doi.org/10.48550/arXiv.2310.15807
 
 ## 📧 Contacto
 - **Correo:** [toledano.ivan16@gmail.com](mailto:toledano.ivan16@gmail.com)
