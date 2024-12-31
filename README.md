@@ -10,7 +10,7 @@ Actualmente soy docente del programa de maestría en Ciencia de Datos en la Univ
 
 ## 🛠 Habilidades
 - **Lenguajes:** Python, SQL, Fortran, C++
-- **Frameworks y Herramientas:** Pandas, Numpy, Astropy, TensorFlow, PyTorch
+- **Frameworks y Herramientas:** Pandas, Numpy, Astropy, TensorFlow, PyTorch, PySpark
 - **Áreas de Interés:** Machine Learning, Big Data, Computer Vision, Astrofísica, Física de Altas Energías
 
 ## 💻 Proyectos destacados (investigación)
