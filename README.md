@@ -4,7 +4,6 @@ Actualmente soy docente del programa de maestría en Ciencia de Datos en la Univ
 
 
 ## 🚀 Sobre mí
-- 🎓 Disfruto diseñar ejercicios prácticos para mis estudiantes, como analizar imágenes de Pokémon para comprender redes neuronales convolucionales.
 - ⚛þ Soy físico, con licenciatura y maestría en la **Universidad Nacional Autónoma de México** y actualmente terminando el doctorado en Física en la **Universidad de Guadalajara**.
 - ✨ Mi área de investigación es la **astrofísica**, donde me encanta aplicar técnicas de **análisis de datos** y **machine learning**.
 
